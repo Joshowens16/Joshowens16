@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Josh Owens
+Hi there, I am a full stack developer. I build full stack applications using TypeScript with React, Express, Node, and PostgreSQL.
+Contact me: 
+Joshowens16@gmail.com
+[LinkedIn](https://www.linkedin.com/in/joshowens97/)
 <!--
 **Joshowens16/Joshowens16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
