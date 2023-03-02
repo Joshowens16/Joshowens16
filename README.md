@@ -5,7 +5,7 @@
 
 - I'm currently working on [my portfolio site](https://github.com/Joshowens16/portfolio)
 
-- I’m currently learning **React Native**
+- I’m currently learning **Go**
 
 - Checkout my personal website [joshowens.onrender.com](joshowens.onrender.com)
 
