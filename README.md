@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshowens16&label=Profile%20views&color=0e75b6&style=flat" alt="joshowens16" /> </p>
 
-- I'm currently working on [my portfolio site](https://github.com/Joshowens16/portfolio)
+- I'm currently working on [Cat Social!](https://github.com/Joshowens16/cat_social)
 
 - I’m currently learning **Next.js** and **Prisma**!
 
