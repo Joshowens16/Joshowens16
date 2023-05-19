@@ -5,7 +5,7 @@
 
 - I'm currently working on [Cat Social!](https://github.com/Joshowens16/cat_social)
 
-- I’m currently learning **Next.js** and **Prisma**!
+- I’m currently learning **Next.js**
 
 - Checkout my personal website [joshowens.onrender.com](joshowens.onrender.com)
 
