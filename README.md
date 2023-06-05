@@ -9,8 +9,6 @@
 
 - Checkout my personal website [joshowens.onrender.com](joshowens.onrender.com)
 
-- Ask me about **React, React Native, or Express!**
-
 - Contact me **joshowens16@gmail.com**
 
 - My resume [https://joshowens.onrender.com/assets/JOSH_OWENS-RESUME-eea9fc10.pdf](https://joshowens.onrender.com/assets/JOSH_OWENS-RESUME-eea9fc10.pdf)
